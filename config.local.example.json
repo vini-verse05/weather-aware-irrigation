@@ -1,0 +1,16 @@
+{
+  "_comment": "Copy to config.local.json (git-ignored) and edit ONLY if the automatic detection printed by `python -m src.data_loader` is wrong. All-null values mean 'auto-detect'.",
+  "data_file": null,
+  "sector_column": null,
+  "sector_value": null,
+  "soil_moisture_unit": null,
+  "column_overrides": {
+    "timestamp": null,
+    "soil_moisture": null,
+    "temperature": null,
+    "humidity": null,
+    "precipitation": null,
+    "et0": null,
+    "irrigation": null
+  }
+}
